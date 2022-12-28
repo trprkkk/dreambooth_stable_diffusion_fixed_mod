@@ -1,0 +1,7 @@
+accelerate==0.14.0
+transformers>=4.21.0
+ftfy
+albumentations
+opencv-python
+einops
+safetensors
